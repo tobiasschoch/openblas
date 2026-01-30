@@ -33,12 +33,10 @@ $$
 B = \alpha \cdot \left[\begin{matrix}
 	1 & 3\\
 	0 & 4
-\end{matrix}\right]
-\left[\begin{matrix}
+\end{matrix}\right]\left[\begin{matrix}
 	1 & 0\\
 	3 & 4
-\end{matrix}\right] = \alpha \cdot
-\left[\begin{matrix}
+\end{matrix}\right] = \alpha \cdot \left[\begin{matrix}
 	10 & 12\\
 	12 & 16
 \end{matrix}\right]
@@ -59,12 +57,12 @@ $$
 $$
 
 although it should be
+
 $$
 \left[\begin{matrix}
 	5 & 6\\
 	6 & 8
-\end{matrix}\right]= 0.5 \cdot
-\left[\begin{matrix}
+\end{matrix}\right]= 0.5 \cdot \left[\begin{matrix}
 	10 & 12\\
 	12 & 16
 \end{matrix}\right].
