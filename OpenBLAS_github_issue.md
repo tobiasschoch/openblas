@@ -53,7 +53,6 @@ $$
 	10 & 12\\
 	12 & 16
 \end{matrix}\right],
-
 $$
 
 although it should be
